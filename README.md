@@ -2,12 +2,12 @@
 
 ## 效果预览
 
-https://jexlau.github.io/blog/
+https://KarryCMT.github.io/KarryCMT/
 
 ## 安装
 
 ```bash
-git clone https://github.com/JexLau/blog.git
+git clone https://github.com/KarryCMT/KarryCMT.git
 cd blog
 
 # 安装依赖
@@ -20,5 +20,3 @@ yarn dev
 yarn build
 ```
 
-## 鸣谢
-本项目采用 @CrazyMrYan 搭建的 [blog](https://github.com/CrazyMrYan/blog) 基础上进行修改
